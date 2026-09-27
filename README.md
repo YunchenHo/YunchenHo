@@ -23,6 +23,9 @@ Coursework and experiments in search algorithms (BFS/DFS, Pacman), classificatio
 **[DataStructure](https://github.com/YunchenHo/DataStructure)**
 Data structures and algorithms implemented in C++.
 
+**[GPE-Practice](https://github.com/YunchenHo/GPE-Practice)**
+Solutions and a running C++ STL/algorithm notes file, built while preparing for NYCU CS Department's programming proficiency exam (GPE).
+
 **[FlappyBirdGame](https://github.com/YunchenHo/FlappyBirdGame)**
 A Flappy Bird clone in HTML, CSS, and JavaScript.
 
